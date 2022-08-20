@@ -1,4 +1,5 @@
 //in this project we learn how promises work
+//node install puppeteer
 const puppeteer = require('puppeteer');
 
 const codeobj = require('./codes') //isme solutions paade hai question 1 ke 
